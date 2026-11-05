@@ -1,0 +1,335 @@
+[
+  {
+    "id": "youtube.leanback.v4",
+    "title": "YouTube",
+    "version": null,
+    "installTime": 1768828337,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "netflix",
+    "title": "Netflix",
+    "version": null,
+    "installTime": 1765725446,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.telefonica.app.nux",
+    "title": "Movistar Plus+",
+    "version": null,
+    "installTime": 1729409123,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "amazon",
+    "title": "Prime Video",
+    "version": null,
+    "installTime": 1792852303,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.hbo.hbomax",
+    "title": "HBO Max",
+    "version": null,
+    "installTime": 1674473472,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.wbd.stream",
+    "title": "HBO Max",
+    "version": null,
+    "installTime": 1787211974,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.disney.disneyplus-prod",
+    "title": "Disney+",
+    "version": null,
+    "installTime": 1787211974,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.12465.4182",
+    "title": "Filmin",
+    "version": null,
+    "installTime": 1742742211,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "cat.tv3.webos",
+    "title": "3Cat",
+    "version": null,
+    "installTime": 1778157831,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.discovery",
+    "title": "Apps",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.lgchannels",
+    "title": "LG Channels",
+    "version": null,
+    "installTime": 1781123435,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.homeconnect",
+    "title": "Centro de hogar",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "aljazeera",
+    "title": "Al Jazeera",
+    "version": null,
+    "installTime": 1778157830,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "ui30",
+    "title": "Rakuten TV",
+    "version": null,
+    "installTime": 1684262268,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.apple.appletv",
+    "title": "Apple TV",
+    "version": null,
+    "installTime": 1783268817,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.sportsteamsettings",
+    "title": "Deportes",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.browser",
+    "title": "Navegador web",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.mediadiscovery",
+    "title": "Reproductor multimedia",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "amazon.alexa.view",
+    "title": "Amazon Alexa",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.skyshowtime.tv",
+    "title": "SkyShowtime",
+    "version": null,
+    "installTime": 1733216135,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.lgtvod.app",
+    "title": "LG Movies & TV",
+    "version": null,
+    "installTime": 1787211814,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.lifeonscreen",
+    "title": "LG Gallery+",
+    "version": null,
+    "installTime": 1787211899,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.camera",
+    "title": "Cámara",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.twin.app.gamingportal",
+    "title": "LG Gaming Portal",
+    "version": null,
+    "installTime": 1767713988,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.twin.app.audiochannel",
+    "title": "LG Radio+",
+    "version": null,
+    "installTime": 1759265488,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "tv.twitch.tv.starshot.lg",
+    "title": "Twitch",
+    "version": null,
+    "installTime": 1762681356,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.multiviewsettings",
+    "title": "Visionado múltiple",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.livetv",
+    "title": "Live TV",
+    "version": null,
+    "installTime": 0,
+    "systemApp": true,
+    "removable": false,
+    "lptype": "default"
+  },
+  {
+    "id": "io.strem.tv",
+    "title": "Stremio",
+    "version": null,
+    "installTime": 1766763211,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "shortcutcopilot",
+    "title": "Copilot",
+    "version": null,
+    "installTime": 1770875844,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "spotify-beehive",
+    "title": "Spotify – Música y podcasts",
+    "version": null,
+    "installTime": 1777815855,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.apple.applemusic",
+    "title": "Apple Music",
+    "version": null,
+    "installTime": 1777815907,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.theadelab.amclient-lg",
+    "title": "Amazon Music",
+    "version": null,
+    "installTime": 1777815926,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "epoxyaisports",
+    "title": "LG Sports Playbook",
+    "version": null,
+    "installTime": 1788296004,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.webos.app.hdmi2",
+    "title": "HDMI 2",
+    "version": null,
+    "installTime": 0,
+    "systemApp": false,
+    "removable": false,
+    "lptype": "bookmark"
+  },
+  {
+    "id": "webos.day",
+    "title": "LG Streaming Week",
+    "version": null,
+    "installTime": 1788973206,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  },
+  {
+    "id": "com.miniclip.eightballpool",
+    "title": "8 Ball Pool",
+    "version": null,
+    "installTime": 1791923032,
+    "systemApp": false,
+    "removable": true,
+    "lptype": "default"
+  }
+]
